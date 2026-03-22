@@ -2,7 +2,7 @@ import Component from '@/components/sparkles-demo'
 
 export default function Page() {
   return (
-    <main className="items full-screen">
+    <main className="flex min-h-svh items-center justify-center">
       <Component />
     </main>
   )
